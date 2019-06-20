@@ -8,7 +8,7 @@ baseurl: "/"
 footer_url: "http://blackboxgenomics.com"
 footer_text: "This is the personal blog of Steve Eichten"
 
-profile-picture: assets/profile.jpg
+profile-picture: assets/pic.jpg
 favicon_location: assets/favicon.ico
 
 permalink: /:year-:month-:day-:title/
