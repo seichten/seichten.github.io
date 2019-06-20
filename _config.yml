@@ -1,12 +1,12 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: blackboxgenomics
+author: seichten
+subtitle: "results at all costs"
 
 url: "https://seichten.github.io"
 baseurl: "/"
 
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "http://blackboxgenomics.com"
+footer_text: "This is the personal blog of Steve Eichten"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
