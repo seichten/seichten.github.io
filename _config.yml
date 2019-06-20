@@ -2,8 +2,8 @@ title: Parchment
 author: pro-panda
 subtitle: A minimal jekyll theme
 
-url: "https://www.pro-panda.tech"
-baseurl: "/parchment"
+url: "https://seichten.github.io"
+baseurl: "/"
 
 footer_url: "https://github.com/pro-panda"
 footer_text: "Theme by pro-panda"
